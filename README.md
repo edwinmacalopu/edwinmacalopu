@@ -13,6 +13,6 @@
 
 <p align="center">
 <a href="https://twitter.com/edwindz2" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="edwindz2" height="30" width="30" /></a>
-<a href="https://fb.com/edwinmdz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="edwinmdz" height="30" width="30" /></a>
+<a href="https://fb.com/edwinmdz" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="edwinmdz" height="30" width="30" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucbdfsvx9_joykt8ispl4hkq" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/channel/ucbdfsvx9_joykt8ispl4hkq" height="30" width="30" /></a>
 </p>
