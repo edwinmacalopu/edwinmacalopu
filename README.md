@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm edwin macalopú diaz</h1>
+<h1 align="left">Hi 👋, I'm edwin</h1>
 <h3 align="left">I am passionate about the world of mobile programming</h3>
 <a href="https://twitter.com/edwindz2" target="blank"><img src="https://img.icons8.com/color/2x/twitter-circled.png" alt="edwindz2" width="30" height="30" align="center" /></a>
   <a href="https://fb.com/edwinmdz" target="blank"><img src="https://img.icons8.com/color/2x/facebook-new.png" alt="edwinmdz" width="30" height="30" align="center" /></a> <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucbdfsvx9_joykt8ispl4hkq" target="blank"><img src="https://img.icons8.com/fluent/2x/youtube-play.png" alt="https://www.youtube.com/channel/ucbdfsvx9_joykt8ispl4hkq" width="30" height="30" align="center" /></a></h3>
